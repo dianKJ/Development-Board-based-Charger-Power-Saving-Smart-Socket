@@ -20,5 +20,5 @@ Facilitator	:	Eletrical Power laboratory Gadjah Mada University	(https://www.you
 
 Link Project	:	https://www.youtube.com/watch?v=dp5puLmO4d0
 
-		            https://bit.ly/304tsKW
+Publication     :       https://jurnal.ar-raniry.ac.id/index.php/circuit/article/view/9332
 
